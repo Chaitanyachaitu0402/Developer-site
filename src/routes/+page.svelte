@@ -91,7 +91,7 @@
 		color: black;
 	}
 	.pimg1 {
-		background-image: url(./Head2.jpg);
+		background-image: url(./Head2.JPG);
 		min-height: 100vh;
 		position: relative;
 		background-position: center;
