@@ -99,7 +99,7 @@
 		background-repeat: no-repeat;
 	}
 	.ptext {
-		color: white;
+		color: black;
 		max-width: 900px;
 		margin: 0 auto;
 		font-size: 90px;
