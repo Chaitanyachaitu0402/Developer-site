@@ -70,8 +70,8 @@
 				<h2>About Me</h2>
 				<p>
 					As a web developer, I have many years of experience with CSS, JavaScript, and HTML.<br />
-					On top of that, my software development skills allowed me to build up my object-oriented
-					programming abilities.<br /> In the wrong example, you simply state front end responsibilities.
+					On top of that, my software development skills allowed me to build up my object-oriented programming
+					abilities.<br /> In the wrong example, you simply state front end responsibilities.
 				</p>
 			</div>
 		</section>
@@ -91,7 +91,7 @@
 		color: black;
 	}
 	.pimg1 {
-		background-image: url(../Head2.jpg);
+		background-image: url(./Head2.jpg);
 		min-height: 100vh;
 		position: relative;
 		background-position: center;
