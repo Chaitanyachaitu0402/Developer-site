@@ -91,7 +91,7 @@
 		color: black;
 	}
 	.pimg1 {
-		background-image: url(./Head2.jpg);
+		background-image: linear-gradient(to right, #5433ff , #20bdff, #a5fecb);
 		min-height: 100vh;
 		position: relative;
 		background-position: center;
