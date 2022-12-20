@@ -173,7 +173,7 @@
 	}
 	.contact {
 		background-color: rgb(137, 137, 137);
-		width: 1000px;
+		width: 100%;
 	}
 	.contact h2 {
 		font-weight: bold;
